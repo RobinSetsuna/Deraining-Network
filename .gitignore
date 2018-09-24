@@ -1,0 +1,8 @@
+checkpoint/
+logs/
+sample/
+test/
+test1/
+.idea/
+__pycache__/
+*.npz
