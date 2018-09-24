@@ -1,3 +1,3 @@
 # Deraining-Network
 
-## [vgg16_weights]("www.baidu.com")
+## You can download [vgg16_weights]("https://www.cs.toronto.edu/~frossard/post/vgg16/") Here
